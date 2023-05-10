@@ -1,6 +1,7 @@
 #Iordan File
 #Add file
-import random
+def tack1():
+ import random
 
 numbers = [random.randint(1, 100) for _ in range(10)]
 
