@@ -1,6 +1,6 @@
 #Iordan File
 #Add file
-import datetime
+import datetme
 first_name_1 = input("Введіть ім'я першого клієнта: ")
 last_name_1 = input("Введіть прізвище першого клієнта: ")
 birthdate_1 = input("Введіть дату народження першого клієнта (у форматі рррр-мм-дд): ")
