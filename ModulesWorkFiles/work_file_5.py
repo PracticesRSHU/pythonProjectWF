@@ -29,4 +29,4 @@ def analyze_grades(param):
 
 
 if __name__ == '__main__':
-    analyze_grades('grades.txt')
+    analyze_grades('grades.txt.txt')
