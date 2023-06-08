@@ -2,7 +2,8 @@
 import ModulesWorkFiles.work_file_3 as V3
 V3.Work()
 #Петро
-
+import ModulesWorkFiles.work_file_7 as branch_Petro123
+branch_Petro123.tack7()
 #Назар
 
 #Віталій
