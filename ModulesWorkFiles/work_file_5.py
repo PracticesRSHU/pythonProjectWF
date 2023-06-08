@@ -1,5 +1,3 @@
-#Oles_Natalia
-#Add
 import lines as lines
 
 
